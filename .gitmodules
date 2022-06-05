@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:HendricksK/photofedgovuefrontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:HendricksK/photofeedgovuebackend.git
